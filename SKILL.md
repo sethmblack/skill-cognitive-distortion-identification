@@ -1,10 +1,9 @@
 ---
 name: cognitive-distortion-identification
-description: Systematically identify and name cognitive distortions (thinking errors)
-  in automatic thoughts, based on Aaron Beck's cognitive therapy framework.
+description: Systematically identify and name cognitive distortions (thinking errors) in automatic thoughts, based on Aaron Beck's cognitive therapy framework.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - cognitive-distortion-identification
