@@ -3,8 +3,9 @@ name: cognitive-distortion-identification
 description: Systematically identify and name cognitive distortions (thinking errors) in automatic thoughts, based on Aaron Beck's cognitive therapy framework.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3619
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cognitive-distortion-identification
 - writing
